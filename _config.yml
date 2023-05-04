@@ -10,13 +10,13 @@ user_description: My name is Alex, and I am studying for the Bachelor of Bioinfo
 user_title: Bioinformatics, Python, Blockchain
 email: alexsemenov.me@gmail.com
 twitter_username: ferrozinator21
-# instagram_username: mauriciourraco7
-#facebook_username: mauricio.urraco
-linkedin_username: alexander-semenov-8630581bb
+# instagram_username:
+#facebook_username: 
+linkedin_username: semenov-alex
 github_username:  Tsatsch
-# medium_username: lorem_ipsum
-# medium_url: lorem_ipsum.medium.com
-# gplus_username:  lorem_ipsum
+# medium_username: 
+# medium_url: 
+# gplus_username: 
 
 exclude: ['package.json', 'src', 'node_modules', 'vendor']
 
